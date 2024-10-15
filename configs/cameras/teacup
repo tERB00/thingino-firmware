@@ -1,3 +1,4 @@
 # MODULE: t20l_sc2232_eth
 BR2_AUDIO=y
+FLASH_SIZE_8=y
 U_BOOT_ENV_TXT="$(BR2_EXTERNAL)/environment/teacup.uenv.txt"
