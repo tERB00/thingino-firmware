@@ -1,4 +1,8 @@
 day_night_max=15000
 day_night_min=500
+gpio_default=19o 20o 25o 26o
 disable_eth=false
 enable_updates=true
+ispmem=5M@0x2900000
+osmem=44M@0x0
+rmem=15M@0x3100000
